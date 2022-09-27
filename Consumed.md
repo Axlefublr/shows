@@ -6,4 +6,4 @@
 1. Overlord
 1. Baki
 1. Better Call Saul
-1. Cyberpunk Edgerunners
+1. 27.09.22 - Cyberpunk Edgerunners
