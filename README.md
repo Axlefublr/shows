@@ -2,7 +2,7 @@
 
 This is my personal repo with various entertainment media I want to track
 
-MAL is something I never use, and I don't tend to like creating lists on websites that may soon perish
+I'd rather keep all my info in one comfortable place, than spread it across various website like MAL and such
 
 ## Shows.json
 
