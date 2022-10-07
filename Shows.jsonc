@@ -15,8 +15,13 @@
       "link":"https://gogoanime.ee/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2-episode-"
    },
    "one piece":{
-      "downloaded":"620",
-      "episode":"616",
+      "downloaded":"626",
+      "episode":"619",
       "link":"https://gogoanime.sk/one-piece-episode-"
+   },
+   "tenge":{
+      "downloaded":0,
+      "episode":0,
+      "link":"https://gogoanime.dk/tenjou-tenge-episode-"
    }
 }
