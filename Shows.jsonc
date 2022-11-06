@@ -2,31 +2,37 @@
    "chainsaw man":{
       "downloaded":"3",
       "episode":"3",
-      "link":"https://gogoanime.dk/chainsaw-man-episode-"
+      "link":"https://gogoanime.dk/chainsaw-man-episode-",
+      "timestamp":""
    },
    "daredevil":{
       "downloaded":"4",
       "episode":"4",
-      "link":"https://watchmovieshd.ru/series/daredevil-0rkr5/2-"
+      "link":"https://watchmovieshd.ru/series/daredevil-0rkr5/2-",
+      "timestamp":""
    },
    "jojo":{
       "downloaded":"8",
       "episode":"8",
-      "link":"https://gogoanime.ee/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2-episode-"
+      "link":"https://gogoanime.ee/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2-episode-",
+      "timestamp":""
    },
    "one piece":{
-      "downloaded":"647",
-      "episode":"636",
-      "link":"https://gogoanime.sk/one-piece-episode-"
+      "downloaded":"656",
+      "episode":"641",
+      "link":"https://gogoanime.sk/one-piece-episode-",
+      "timestamp":"22.11.06 20:13"
    },
    "tenge":{
       "downloaded":0,
       "episode":0,
-      "link":"https://gogoanime.dk/tenjou-tenge-episode-"
+      "link":"https://gogoanime.dk/tenjou-tenge-episode-",
+      "timestamp":""
    },
    "the boys":{
       "downloaded":"6",
       "episode":"6",
-      "link":"https://watchmovieshd.ru/series/the-boys-lx4rz/1-"
+      "link":"https://watchmovieshd.ru/series/the-boys-lx4rz/1-",
+      "timestamp":""
    }
 }
