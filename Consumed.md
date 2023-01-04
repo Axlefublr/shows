@@ -11,3 +11,4 @@
 1. 22.10.10 - Superfast
 1. 22.10.11 - Fireforce - dropped
 1. 22.10.11 - American Psycho
+1. 23.01.04 - Chainsaw Man
