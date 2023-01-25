@@ -12,3 +12,4 @@
 1. 22.10.11 - Fireforce - dropped
 1. 22.10.11 - American Psycho
 1. 23.01.04 - Chainsaw Man
+1. 23.01.26 - Puss in Boots: The Last Wish
