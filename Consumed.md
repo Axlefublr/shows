@@ -13,3 +13,4 @@
 1. 22.10.11 - American Psycho
 1. 23.01.04 - Chainsaw Man
 1. 23.01.26 - Puss in Boots: The Last Wish
+1. 23.02.24 - Kung fu Panda: The Legend of Awesomeness - dropped
