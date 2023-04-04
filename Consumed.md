@@ -16,3 +16,4 @@
 1. 23.02.24 - Kung fu Panda: The Legend of Awesomeness - dropped
 1. 23.03.28 - Rick & Morty S5
 1. 23.03.28 - Rick & Morty S6
+1. 23.04.04 - Spider-Man: Homecoming
