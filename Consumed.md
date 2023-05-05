@@ -77,6 +77,17 @@
 1. Sen To Chihiro no Kamikakushi
 1. Re:Zero kara Hajimeru Break Time
 1. Gokushufudou
+1. (manga) Jojo Part 6
+1. (manga) Jojo Part 7
+1. (manga) Death Note Tokubetsu-hen
+1. (manga) Jolyne, Gucci de Tobu
+1. (manga) Kishibe Rohan wa Ugokanai
+1. (manga) Oingo to Boingo Kyoudai Daibouken
+1. (manga) Kishibe Rohan Louvre e Iku
+1. (manga) Shikei Shikkouchuu Datsugoku Shinkouchuu
+1. (manga) JoJo no Kimyou na Bouken Part 8: JoJolion
+1. (dropped) (manga) Hourou Musuko
+1. (dropped) (manga) Nanako-san-teki na Nichijou Dash!!
 1. (dropped) Attack On Titan
 1. (dropped) Bakenomogatari
 1. (dropped) Black Lagoon
