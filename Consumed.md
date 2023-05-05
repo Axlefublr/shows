@@ -1,9 +1,65 @@
+1. Kaichou wa Maid-sama!
 1. Death Note
+1. Blend S
 1. Onepunchman
-1. Hellsing Ultimate
-1. Hunter x Hunter
+1. Assassination Classroom
+1. Bungou Stray Dogs
+1. Mahouka Koukou no Rettousei
+1. (dropped) Blame! Movie
+1. Future Diary
+1. No Game No Life
+1. Kimi no Na wa
+1. Mob Psycho 100
+1. Noragami
+1. Dr.Stone
 1. Jojo
+1. Demon Slayer
+1. Akame ga Kill!
+1. Haikyuu!!
+1. Sakamoto desu ga?
+1. Dumbbell Nan Kilo Moteru?
+1. Saiki Kusuo
+1. Food Wars
+1. Konosuba
+1. Chio-chan no Tsuugakuro
+1. Shinchou Yuusha
+1. Nichijou
+1. Hellsing
+1. Hellsing Ultimate
+1. Osomatsu-san
+1. Ishuzoku Reviewers
+1. Code Gueass
+1. Watashi ga Motete Dousunda
+1. Boku no Hero Academia
+1. Death Parade
+1. Hunter x Hunter
 1. Overlord
+1. (dropped) Eromanga-sensei
+1. Youjo Senki
+1. Made in Abyss
+1. (dropped) Durarara
+1. Prison School
+1. Re:Zero
+1. Isekai Quartet
+1. Sen To Chihiro no Kamikakushi
+1. Gokushufudou
+1. (dropped) Attack On Titan
+1. (dropped) Bakenomogatari
+1. (dropped) Black Lagoon
+1. (dropped) Hataraku Saibou
+1. (dropped) Danshi Koukousei no Nichijou
+1. (dropped) Fairy Tail
+1. (dropped) Gintama
+1. (dropped) Hai to Gensou no Grimgar
+1. (dropped) Himoto Umaru-chan
+1. (dropped) Inuyashiki
+1. (dropped) Ouran High School Host Club
+1. (dropped) Kobayashi-san
+1. Jujutsu Kaisen
+1. (dropped) Odd Taxi
+1. Mushoku Tensei
+1. (dropped) Cowboy Bebop
+1. (dropped) Great Pretender
 1. Baki
 1. Better Call Saul
 1. 22.09.27 - Cyberpunk Edgerunners
