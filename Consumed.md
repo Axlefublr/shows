@@ -128,3 +128,4 @@
 1. 23.04.10 - Spider-man: Far From Home
 1. 23.04.21 - (dropped) Catch Me If You Can
 1. 23.05.06 - Saiki Kusuo Season 1
+1. 23.05.10 - Saiki Kusuo Season 2
