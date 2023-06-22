@@ -131,3 +131,4 @@
 1. 23.05.10 - Saiki Kusuo Season 2
 1. 23.05.12 - Saiki Kusuo Kanketsu-hen
 1. 23.05.13 - Saiki Kusuo Shidou-hen
+1. 23.06.22 - The Intern
