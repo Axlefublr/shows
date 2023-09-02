@@ -1,17 +1,22 @@
 {
-	"Daredevil": {
-		"Downloaded": 4,
-		"Episode": 4,
-		"Link": "https://watchmovieshd.ru/series/daredevil-0rkr5/2-"
-	},
-	"One Piece": {
-		"Downloaded": 828,
-		"Episode": 821,
-		"Link": "https://gogoanime.sk/one-piece-episode-"
+	"One Piece Live Action": {
+		"episode": 1,
+		"downloaded": 0,
+		"link": "https://flixhd.cc/watch-tv/watch-one-piece-full-99826.9889051"
 	},
 	"The Boys 2": {
-		"Downloaded": 4,
-		"Episode": 4,
-		"Link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
+		"episode": 4,
+		"downloaded": 5,
+		"link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
+	},
+	"Daredevil": {
+		"episode": 4,
+		"downloaded": 4,
+		"link": "https://watchmovieshd.ru/series/daredevil-0rkr5/2-"
+	},
+	"One Piece": {
+		"episode": 841,
+		"downloaded": 871,
+		"link": "https://gogoanime.sk/one-piece-episode-"
 	}
 }
