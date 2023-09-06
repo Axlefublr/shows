@@ -1,11 +1,6 @@
 {
-	"Daredevil": {
-		"episode": 4,
-		"downloaded": 0,
-		"link": "https://watchmovieshd.ru/series/daredevil-0rkr5/2-"
-	},
 	"One Piece": {
-		"episode": 846,
+		"episode": 847,
 		"downloaded": 871,
 		"link": "https://gogoanime.sk/one-piece-episode-"
 	},
@@ -13,5 +8,10 @@
 		"episode": 4,
 		"downloaded": 0,
 		"link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
+	},
+	"Daredevil": {
+		"episode": 4,
+		"downloaded": 0,
+		"link": "https://watchmovieshd.ru/series/daredevil-0rkr5/2-"
 	}
 }
