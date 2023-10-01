@@ -1,4 +1,9 @@
 {
+	"Baki 2": {
+		"episode": 1,
+		"downloaded": 27,
+		"link": "https://aniwave.to/watch/hanma-baki-season-2.oj4mz/ep-"
+	},
 	"Daredevil": {
 		"episode": 4,
 		"downloaded": 0,
@@ -13,10 +18,5 @@
 		"episode": 891,
 		"downloaded": 1076,
 		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
-	"Baki 2": {
-		"episode": 1,
-		"downloaded": 0,
-		"link": "https://aniwave.to/watch/hanma-baki-season-2.oj4mz/ep-"
 	}
 }
