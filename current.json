@@ -1,11 +1,6 @@
 {
-	"The Boys 2": {
-		"episode": 4,
-		"downloaded": 0,
-		"link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
-	},
 	"Baki 2": {
-		"episode": 3,
+		"episode": 8,
 		"downloaded": 27,
 		"link": "https://aniwave.to/watch/hanma-baki-season-2.oj4mz/ep-"
 	},
@@ -18,5 +13,10 @@
 		"episode": 891,
 		"downloaded": 1076,
 		"link": "https://gogoanimehd.io/one-piece-episode-"
+	},
+	"The Boys 2": {
+		"episode": 4,
+		"downloaded": 0,
+		"link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
 	}
 }
