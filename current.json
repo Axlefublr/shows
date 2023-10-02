@@ -1,9 +1,4 @@
 {
-	"The Boys 2": {
-		"episode": 4,
-		"downloaded": 0,
-		"link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
-	},
 	"Daredevil": {
 		"episode": 4,
 		"downloaded": 0,
@@ -15,8 +10,13 @@
 		"link": "https://gogoanimehd.io/one-piece-episode-"
 	},
 	"Baki 2": {
-		"episode": 11,
+		"episode": 13,
 		"downloaded": 27,
 		"link": "https://aniwave.to/watch/hanma-baki-season-2.oj4mz/ep-"
+	},
+	"The Boys 2": {
+		"episode": 4,
+		"downloaded": 0,
+		"link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
 	}
 }
