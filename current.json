@@ -1,6 +1,6 @@
 {
 	"Baki 2": {
-		"episode": 16,
+		"episode": 19,
 		"downloaded": 27,
 		"link": "https://aniwave.to/watch/hanma-baki-season-2.oj4mz/ep-"
 	},
@@ -9,14 +9,14 @@
 		"downloaded": 0,
 		"link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
 	},
-	"One Piece": {
-		"episode": 891,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
 	"Daredevil": {
 		"episode": 4,
 		"downloaded": 0,
 		"link": "https://watchmovieshd.ru/series/daredevil-0rkr5/2-"
+	},
+	"One Piece": {
+		"episode": 891,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
 	}
 }
