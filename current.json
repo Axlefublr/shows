@@ -1,14 +1,4 @@
 {
-	"One Piece Manga": {
-		"episode": 914,
-		"downloaded": 0,
-		"link": "https://ww7.mangakakalot.tv/chapter/manga-jn986670/chapter-"
-	},
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
 	"Daredevil": {
 		"episode": 4,
 		"downloaded": 0,
@@ -18,5 +8,15 @@
 		"episode": 4,
 		"downloaded": 0,
 		"link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
+	},
+	"One Piece Manga": {
+		"episode": 914,
+		"downloaded": 0,
+		"link": "https://www.glanceoflife.com/statuses/25981204.html"
+	},
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
 	}
 }
