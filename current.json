@@ -1,13 +1,13 @@
 {
-	"The Boys 2": {
-		"episode": 4,
-		"downloaded": 0,
-		"link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
-	},
 	"Daredevil": {
 		"episode": 4,
 		"downloaded": 0,
 		"link": "https://watchmovieshd.ru/series/daredevil-0rkr5/2-"
+	},
+	"The Boys 2": {
+		"episode": 4,
+		"downloaded": 0,
+		"link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
 	},
 	"One Piece Manga": {
 		"episode": 920,
@@ -20,7 +20,7 @@
 		"link": "https://gogoanimehd.io/one-piece-episode-"
 	},
 	"Devon Price: Unmasking Autism": {
-		"episode": 51,
+		"episode": 72,
 		"downloaded": 0,
 		"link": ""
 	}
