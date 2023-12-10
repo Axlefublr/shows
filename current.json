@@ -1,6 +1,26 @@
 {
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
+	},
+	"Devon Price: Unmasking Autism": {
+		"episode": 104,
+		"downloaded": 0,
+		"link": ""
+	},
+	"The Boys 2": {
+		"episode": 4,
+		"downloaded": 0,
+		"link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
+	},
+	"Baki Dou": {
+		"episode": 34,
+		"downloaded": 0,
+		"link": "https://bakidou.com/manga/baki-dou-chapter-1"
+	},
 	"One Piece Manga": {
-		"episode": 920,
+		"episode": 924,
 		"downloaded": 0,
 		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
 	},
@@ -8,25 +28,5 @@
 		"episode": 4,
 		"downloaded": 0,
 		"link": "https://watchmovieshd.ru/series/daredevil-0rkr5/2-"
-	},
-	"Devon Price: Unmasking Autism": {
-		"episode": 104,
-		"downloaded": 0,
-		"link": ""
-	},
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
-	"Baki Dou": {
-		"episode": 34,
-		"downloaded": 0,
-		"link": "https://bakidou.com/manga/baki-dou-chapter-1"
-	},
-	"The Boys 2": {
-		"episode": 4,
-		"downloaded": 0,
-		"link": "https://watchmovieshd.ru/tv/the-boys-lx4rz/2-"
 	}
 }
