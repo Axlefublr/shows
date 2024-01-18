@@ -1,19 +1,4 @@
 {
-	"Devon Price: Unmasking Autism": {
-		"episode": 104,
-		"downloaded": 0,
-		"link": ""
-	},
-	"Daredevil": {
-		"episode": 5,
-		"downloaded": 0,
-		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
-	},
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
 	"Baki Dou": {
 		"episode": 170,
 		"downloaded": 0,
@@ -23,5 +8,20 @@
 		"episode": 924,
 		"downloaded": 0,
 		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+	},
+	"Daredevil": {
+		"episode": 5,
+		"downloaded": 0,
+		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
+	},
+	"Devon Price: Unmasking Autism": {
+		"episode": 109,
+		"downloaded": 0,
+		"link": ""
+	},
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
 	}
 }
