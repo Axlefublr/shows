@@ -1,13 +1,13 @@
 {
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
 	"Daredevil": {
 		"episode": 5,
 		"downloaded": 0,
 		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
+	},
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
 	},
 	"One Piece Manga": {
 		"episode": 924,
@@ -17,7 +17,7 @@
 	"Baki Dou": {
 		"episode": 170,
 		"downloaded": 0,
-		"link": "https://bakidou.com/manga/baki-dou-chapter-1"
+		"link": "https://bakidou.com/manga/baki-dou-chapter-"
 	},
 	"Devon Price: Unmasking Autism": {
 		"episode": 109,
