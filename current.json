@@ -1,8 +1,8 @@
 {
-	"One Piece Manga": {
-		"episode": 924,
+	"Mashle 2": {
+		"episode": 0,
 		"downloaded": 0,
-		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
 	},
 	"Daredevil": {
 		"episode": 5,
@@ -18,6 +18,11 @@
 		"episode": 122,
 		"downloaded": 0,
 		"link": ""
+	},
+	"One Piece Manga": {
+		"episode": 924,
+		"downloaded": 0,
+		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
 	},
 	"Baki Dou": {
 		"episode": 194,
