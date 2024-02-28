@@ -1,8 +1,23 @@
 {
+	"One Piece Manga": {
+		"episode": 924,
+		"downloaded": 0,
+		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+	},
+	"Mashle 2": {
+		"episode": 0,
+		"downloaded": 7,
+		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
+	},
 	"Daredevil": {
 		"episode": 5,
 		"downloaded": 0,
 		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
+	},
+	"Frieren": {
+		"episode": 6,
+		"downloaded": 0,
+		"link": "https://ww4.gogoanime2.org/watch/sousou-no-frieren/"
 	},
 	"Baki Dou": {
 		"episode": 198,
@@ -18,20 +33,5 @@
 		"episode": 122,
 		"downloaded": 0,
 		"link": ""
-	},
-	"Mashle 2": {
-		"episode": 0,
-		"downloaded": 7,
-		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
-	},
-	"Frieren": {
-		"episode": 3,
-		"downloaded": 0,
-		"link": "https://ww4.gogoanime2.org/watch/sousou-no-frieren/"
-	},
-	"One Piece Manga": {
-		"episode": 924,
-		"downloaded": 0,
-		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
 	}
 }
