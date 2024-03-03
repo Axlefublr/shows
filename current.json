@@ -1,4 +1,9 @@
 {
+	"One Piece Manga": {
+		"episode": 924,
+		"downloaded": 0,
+		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+	},
 	"Baki Dou": {
 		"episode": 198,
 		"downloaded": 0,
@@ -14,15 +19,15 @@
 		"downloaded": 0,
 		"link": ""
 	},
-	"One Piece Manga": {
-		"episode": 924,
-		"downloaded": 0,
-		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
-	},
 	"Mashle 2": {
 		"episode": 8,
 		"downloaded": 8,
 		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
+	},
+	"Solo Leveling": {
+		"episode": 8,
+		"downloaded": 0,
+		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
 	},
 	"One Piece": {
 		"episode": 901,
