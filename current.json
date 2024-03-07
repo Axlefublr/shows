@@ -1,8 +1,13 @@
 {
-	"Baki Dou": {
-		"episode": 198,
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
+	},
+	"Daredevil": {
+		"episode": 5,
 		"downloaded": 0,
-		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
+		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
 	},
 	"Solo Leveling Manga": {
 		"episode": 124,
@@ -19,20 +24,20 @@
 		"downloaded": 8,
 		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
 	},
-	"Daredevil": {
-		"episode": 5,
+	"That Time I Got Reincarnated As A Slime": {
+		"episode": 0,
 		"downloaded": 0,
-		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
+		"link": "https://aniwave.to/watch/that-time-i-got-reincarnated-as-a-slime.yoqz/ep-"
 	},
 	"Devon Price: Unmasking Autism": {
 		"episode": 122,
 		"downloaded": 0,
 		"link": ""
 	},
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
+	"Baki Dou": {
+		"episode": 198,
+		"downloaded": 0,
+		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
 	},
 	"Solo Leveling": {
 		"episode": 8,
