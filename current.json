@@ -1,47 +1,47 @@
 {
-	"Solo Leveling": {
-		"episode": 8,
-		"downloaded": 0,
-		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
-	},
-	"Baki Dou": {
-		"episode": 198,
-		"downloaded": 0,
-		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
 	},
 	"Solo Leveling Manga": {
 		"episode": 126,
 		"downloaded": 0,
 		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
 	},
-	"Mashle 2": {
-		"episode": 8,
-		"downloaded": 8,
-		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
-	},
-	"Daredevil": {
-		"episode": 5,
-		"downloaded": 0,
-		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
-	},
-	"That Time I Got Reincarnated As A Slime": {
-		"episode": 0,
-		"downloaded": 9,
-		"link": "https://ww4.gogoanime2.org/watch/tensei-shitara-slime-datta-ken/"
-	},
 	"One Piece Manga": {
 		"episode": 924,
 		"downloaded": 0,
 		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
 	},
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
 	"Devon Price: Unmasking Autism": {
 		"episode": 122,
 		"downloaded": 0,
 		"link": ""
+	},
+	"That Time I Got Reincarnated As A Slime": {
+		"episode": 0,
+		"downloaded": 20,
+		"link": "https://ww4.gogoanime2.org/watch/tensei-shitara-slime-datta-ken/"
+	},
+	"Solo Leveling": {
+		"episode": 8,
+		"downloaded": 0,
+		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
+	},
+	"Mashle 2": {
+		"episode": 8,
+		"downloaded": 8,
+		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
+	},
+	"Baki Dou": {
+		"episode": 198,
+		"downloaded": 0,
+		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
+	},
+	"Daredevil": {
+		"episode": 5,
+		"downloaded": 0,
+		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
 	}
 }
