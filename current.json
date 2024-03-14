@@ -1,9 +1,4 @@
 {
-	"Devon Price: Unmasking Autism": {
-		"episode": 122,
-		"downloaded": 0,
-		"link": ""
-	},
 	"Solo Leveling": {
 		"episode": 9,
 		"downloaded": 0,
@@ -14,39 +9,44 @@
 		"downloaded": 0,
 		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
 	},
-	"Mashle 2": {
-		"episode": 9,
-		"downloaded": 8,
-		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
-	},
 	"One Piece Manga": {
 		"episode": 924,
 		"downloaded": 0,
 		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
 	},
-	"That Time I Got Reincarnated As A Slime: Tensura Nikki": {
-		"episode": 9,
+	"Daredevil": {
+		"episode": 5,
 		"downloaded": 0,
-		"link": "https://ww4.gogoanime2.org/watch/tensura-nikki-tensei-shitara-slime-datta-ken/"
-	},
-	"Baki Dou": {
-		"episode": 198,
-		"downloaded": 0,
-		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
-	},
-	"That Time I Got Reincarnated As A Slime 2": {
-		"episode": 2,
-		"downloaded": 0,
-		"link": "https://ww4.gogoanime2.org/watch/tensei-shitara-slime-datta-ken-2nd-season/"
+		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
 	},
 	"One Piece": {
 		"episode": 901,
 		"downloaded": 1076,
 		"link": "https://gogoanimehd.io/one-piece-episode-"
 	},
-	"Daredevil": {
-		"episode": 5,
+	"That Time I Got Reincarnated As A Slime 2": {
+		"episode": 4,
 		"downloaded": 0,
-		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
+		"link": "https://ww4.gogoanime2.org/watch/tensei-shitara-slime-datta-ken-2nd-season/"
+	},
+	"That Time I Got Reincarnated As A Slime: Tensura Nikki": {
+		"episode": 9,
+		"downloaded": 0,
+		"link": "https://ww4.gogoanime2.org/watch/tensura-nikki-tensei-shitara-slime-datta-ken/"
+	},
+	"Devon Price: Unmasking Autism": {
+		"episode": 122,
+		"downloaded": 0,
+		"link": ""
+	},
+	"Mashle 2": {
+		"episode": 9,
+		"downloaded": 8,
+		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
+	},
+	"Baki Dou": {
+		"episode": 198,
+		"downloaded": 0,
+		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
 	}
 }
