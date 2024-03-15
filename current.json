@@ -1,52 +1,52 @@
 {
-	"Mashle 2": {
-		"episode": 9,
-		"downloaded": 8,
-		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
-	},
-	"Solo Leveling Manga": {
-		"episode": 143,
-		"downloaded": 0,
-		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
-	},
 	"That Time I Got Reincarnated As A Slime: Tensura Nikki": {
 		"episode": 9,
 		"downloaded": 0,
 		"link": "https://ww4.gogoanime2.org/watch/tensura-nikki-tensei-shitara-slime-datta-ken/"
-	},
-	"One Piece Manga": {
-		"episode": 924,
-		"downloaded": 0,
-		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
-	},
-	"Solo Leveling": {
-		"episode": 9,
-		"downloaded": 0,
-		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
-	},
-	"Baki Dou": {
-		"episode": 198,
-		"downloaded": 0,
-		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
-	},
-	"Daredevil": {
-		"episode": 5,
-		"downloaded": 0,
-		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
 	},
 	"One Piece": {
 		"episode": 901,
 		"downloaded": 1076,
 		"link": "https://gogoanimehd.io/one-piece-episode-"
 	},
+	"Mashle 2": {
+		"episode": 9,
+		"downloaded": 8,
+		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
+	},
+	"That Time I Got Reincarnated As A Slime 2: Part 2": {
+		"episode": 3,
+		"downloaded": 0,
+		"link": "https://ww4.gogoanime2.org/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/"
+	},
+	"Baki Dou": {
+		"episode": 198,
+		"downloaded": 0,
+		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
+	},
+	"One Piece Manga": {
+		"episode": 924,
+		"downloaded": 0,
+		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+	},
+	"Solo Leveling Manga": {
+		"episode": 143,
+		"downloaded": 0,
+		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
+	},
 	"Devon Price: Unmasking Autism": {
 		"episode": 122,
 		"downloaded": 0,
 		"link": ""
 	},
-	"That Time I Got Reincarnated As A Slime 2: Part 2": {
-		"episode": 0,
+	"Daredevil": {
+		"episode": 5,
 		"downloaded": 0,
-		"link": "https://ww4.gogoanime2.org/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/"
+		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
+	},
+	"Solo Leveling": {
+		"episode": 9,
+		"downloaded": 0,
+		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
 	}
 }
