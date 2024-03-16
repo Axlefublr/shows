@@ -1,38 +1,18 @@
 {
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
 	"Solo Leveling": {
 		"episode": 9,
 		"downloaded": 0,
 		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
 	},
-	"One Piece Manga": {
-		"episode": 924,
+	"Baki Dou": {
+		"episode": 198,
 		"downloaded": 0,
-		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
 	},
-	"Daredevil": {
-		"episode": 5,
-		"downloaded": 0,
-		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
-	},
-	"That Time I Got Reincarnated As A Slime: Tensura Nikki": {
-		"episode": 9,
-		"downloaded": 0,
-		"link": "https://ww4.gogoanime2.org/watch/tensura-nikki-tensei-shitara-slime-datta-ken/"
-	},
-	"Arifureta": {
-		"episode": 4,
-		"downloaded": 8,
-		"link": "https://ww4.gogoanime2.org/watch/arifureta-shokugyou-de-sekai-saikyou/"
-	},
-	"Devon Price: Unmasking Autism": {
-		"episode": 122,
-		"downloaded": 0,
-		"link": ""
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
 	},
 	"Solo Leveling Manga": {
 		"episode": 156,
@@ -44,9 +24,29 @@
 		"downloaded": 8,
 		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
 	},
-	"Baki Dou": {
-		"episode": 198,
+	"That Time I Got Reincarnated As A Slime: Tensura Nikki": {
+		"episode": 9,
 		"downloaded": 0,
-		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
+		"link": "https://ww4.gogoanime2.org/watch/tensura-nikki-tensei-shitara-slime-datta-ken/"
+	},
+	"Arifureta": {
+		"episode": 6,
+		"downloaded": 8,
+		"link": "https://ww4.gogoanime2.org/watch/arifureta-shokugyou-de-sekai-saikyou/"
+	},
+	"Devon Price: Unmasking Autism": {
+		"episode": 122,
+		"downloaded": 0,
+		"link": ""
+	},
+	"One Piece Manga": {
+		"episode": 924,
+		"downloaded": 0,
+		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+	},
+	"Daredevil": {
+		"episode": 5,
+		"downloaded": 0,
+		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
 	}
 }
