@@ -1,34 +1,4 @@
 {
-	"One Piece Manga": {
-		"episode": 924,
-		"downloaded": 0,
-		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
-	},
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
-	"Baki Dou": {
-		"episode": 198,
-		"downloaded": 0,
-		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
-	},
-	"Samurai Champloo": {
-		"episode": 2,
-		"downloaded": 4,
-		"link": "https://anitaku.to/samurai-champloo-episode-"
-	},
-	"That Time I Got Reincarnated As A Slime: Tensura Nikki": {
-		"episode": 9,
-		"downloaded": 0,
-		"link": "https://ww4.gogoanime2.org/watch/tensura-nikki-tensei-shitara-slime-datta-ken/"
-	},
-	"Devon Price: Unmasking Autism": {
-		"episode": 122,
-		"downloaded": 0,
-		"link": ""
-	},
 	"Daredevil": {
 		"episode": 5,
 		"downloaded": 0,
@@ -39,14 +9,44 @@
 		"downloaded": 0,
 		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
 	},
+	"Solo Leveling Manga": {
+		"episode": 156,
+		"downloaded": 0,
+		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
+	},
+	"Devon Price: Unmasking Autism": {
+		"episode": 122,
+		"downloaded": 0,
+		"link": ""
+	},
+	"Baki Dou": {
+		"episode": 198,
+		"downloaded": 0,
+		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
+	},
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
+	},
+	"That Time I Got Reincarnated As A Slime: Tensura Nikki": {
+		"episode": 9,
+		"downloaded": 0,
+		"link": "https://ww4.gogoanime2.org/watch/tensura-nikki-tensei-shitara-slime-datta-ken/"
+	},
 	"Mashle 2": {
 		"episode": 9,
 		"downloaded": 8,
 		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
 	},
-	"Solo Leveling Manga": {
-		"episode": 156,
+	"Samurai Champloo": {
+		"episode": 4,
+		"downloaded": 9,
+		"link": "https://anitaku.to/samurai-champloo-episode-"
+	},
+	"One Piece Manga": {
+		"episode": 924,
 		"downloaded": 0,
-		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
+		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
 	}
 }
