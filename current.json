@@ -1,4 +1,39 @@
 {
+	"One Piece Manga": {
+		"episode": 924,
+		"downloaded": 0,
+		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+	},
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
+	},
+	"Baki Dou": {
+		"episode": 198,
+		"downloaded": 0,
+		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
+	},
+	"Samurai Champloo": {
+		"episode": 2,
+		"downloaded": 4,
+		"link": "https://anitaku.to/samurai-champloo-episode-"
+	},
+	"That Time I Got Reincarnated As A Slime: Tensura Nikki": {
+		"episode": 9,
+		"downloaded": 0,
+		"link": "https://ww4.gogoanime2.org/watch/tensura-nikki-tensei-shitara-slime-datta-ken/"
+	},
+	"Devon Price: Unmasking Autism": {
+		"episode": 122,
+		"downloaded": 0,
+		"link": ""
+	},
+	"Daredevil": {
+		"episode": 5,
+		"downloaded": 0,
+		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
+	},
 	"Solo Leveling": {
 		"episode": 9,
 		"downloaded": 0,
@@ -9,44 +44,9 @@
 		"downloaded": 8,
 		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
 	},
-	"Baki Dou": {
-		"episode": 198,
-		"downloaded": 0,
-		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
-	},
-	"Samurai Champloo": {
-		"episode": 0,
-		"downloaded": 0,
-		"link": "https://anitaku.to/samurai-champloo-episode-"
-	},
 	"Solo Leveling Manga": {
 		"episode": 156,
 		"downloaded": 0,
 		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
-	},
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
-	"Daredevil": {
-		"episode": 5,
-		"downloaded": 0,
-		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
-	},
-	"One Piece Manga": {
-		"episode": 924,
-		"downloaded": 0,
-		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
-	},
-	"Devon Price: Unmasking Autism": {
-		"episode": 122,
-		"downloaded": 0,
-		"link": ""
-	},
-	"That Time I Got Reincarnated As A Slime: Tensura Nikki": {
-		"episode": 9,
-		"downloaded": 0,
-		"link": "https://ww4.gogoanime2.org/watch/tensura-nikki-tensei-shitara-slime-datta-ken/"
 	}
 }
