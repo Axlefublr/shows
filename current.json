@@ -1,43 +1,33 @@
 {
-	"Samurai Champloo": {
-		"episode": 4,
-		"downloaded": 9,
-		"link": "https://anitaku.to/samurai-champloo-episode-"
-	},
 	"Mashle 2": {
 		"episode": 10,
 		"downloaded": 8,
 		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
-	},
-	"Daredevil": {
-		"episode": 5,
-		"downloaded": 0,
-		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
-	},
-	"Solo Leveling": {
-		"episode": 10,
-		"downloaded": 0,
-		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
-	},
-	"The Devil is a Part-timer": {
-		"episode": 2,
-		"downloaded": 4,
-		"link": "https://anitaku.to/hataraku-maou-sama-episode-"
 	},
 	"One Piece": {
 		"episode": 901,
 		"downloaded": 1076,
 		"link": "https://gogoanimehd.io/one-piece-episode-"
 	},
+	"Devon Price: Unmasking Autism": {
+		"episode": 122,
+		"downloaded": 0,
+		"link": ""
+	},
+	"The Devil is a Part-timer": {
+		"episode": 2,
+		"downloaded": 4,
+		"link": "https://anitaku.to/hataraku-maou-sama-episode-"
+	},
+	"Solo Leveling": {
+		"episode": 10,
+		"downloaded": 0,
+		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
+	},
 	"One Piece Manga": {
 		"episode": 924,
 		"downloaded": 0,
 		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
-	},
-	"Solo Leveling Manga": {
-		"episode": 164,
-		"downloaded": 0,
-		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
 	},
 	"That Time I Got Reincarnated As A Slime: Tensura Nikki": {
 		"episode": 9,
@@ -49,9 +39,19 @@
 		"downloaded": 0,
 		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
 	},
-	"Devon Price: Unmasking Autism": {
-		"episode": 122,
+	"Samurai Champloo": {
+		"episode": 4,
+		"downloaded": 9,
+		"link": "https://anitaku.to/samurai-champloo-episode-"
+	},
+	"Daredevil": {
+		"episode": 5,
 		"downloaded": 0,
-		"link": ""
+		"link": "https://flixhq.id/tv/daredevil-0rkr5/2-"
+	},
+	"Solo Leveling Manga": {
+		"episode": 169,
+		"downloaded": 0,
+		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
 	}
 }
