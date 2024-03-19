@@ -1,13 +1,8 @@
 {
 	"Mashle 2": {
-		"episode": 9,
+		"episode": 10,
 		"downloaded": 8,
 		"link": "https://ww4.gogoanime2.org/watch/mashle-2nd-season/"
-	},
-	"Solo Leveling Manga": {
-		"episode": 164,
-		"downloaded": 0,
-		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
 	},
 	"Daredevil": {
 		"episode": 5,
@@ -24,16 +19,6 @@
 		"downloaded": 0,
 		"link": "https://ww4.gogoanime2.org/watch/tensura-nikki-tensei-shitara-slime-datta-ken/"
 	},
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
-	"Devon Price: Unmasking Autism": {
-		"episode": 122,
-		"downloaded": 0,
-		"link": ""
-	},
 	"Solo Leveling": {
 		"episode": 10,
 		"downloaded": 0,
@@ -44,14 +29,29 @@
 		"downloaded": 4,
 		"link": "https://anitaku.to/hataraku-maou-sama-episode-"
 	},
+	"One Piece Manga": {
+		"episode": 924,
+		"downloaded": 0,
+		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+	},
 	"Baki Dou": {
 		"episode": 198,
 		"downloaded": 0,
 		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
 	},
-	"One Piece Manga": {
-		"episode": 924,
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
+	},
+	"Devon Price: Unmasking Autism": {
+		"episode": 122,
 		"downloaded": 0,
-		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+		"link": ""
+	},
+	"Solo Leveling Manga": {
+		"episode": 164,
+		"downloaded": 0,
+		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
 	}
 }
