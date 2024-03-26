@@ -1,13 +1,8 @@
 {
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
-	"Mashle 2": {
-		"episode": 11,
-		"downloaded": 8,
-		"link": "https://aniwave.to/watch/mashle-2nd-season.52159/ep-"
+	"Fate Zero": {
+		"episode": 0,
+		"downloaded": 3,
+		"link": "https://anitaku.to/fate-zero-episode-"
 	},
 	"Baki Dou": {
 		"episode": 198,
@@ -24,15 +19,25 @@
 		"downloaded": 0,
 		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
 	},
-	"Fate Zero": {
-		"episode": 0,
-		"downloaded": 3,
-		"link": "https://anitaku.to/fate-zero-episode-"
-	},
 	"Solo Leveling Manga": {
 		"episode": 176,
 		"downloaded": 0,
 		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
+	},
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
+	},
+	"So I'm a Spider, So What?": {
+		"episode": 0,
+		"downloaded": 0,
+		"link": "https://9animetv.to/watch/so-im-a-spider-so-what-15773?ep=51248"
+	},
+	"Mashle 2": {
+		"episode": 11,
+		"downloaded": 8,
+		"link": "https://aniwave.to/watch/mashle-2nd-season.52159/ep-"
 	},
 	"One Piece Manga": {
 		"episode": 924,
