@@ -1,19 +1,4 @@
 {
-	"So I'm a Spider, So What?": {
-		"episode": 6,
-		"downloaded": 11,
-		"link": "https://anitaku.to/kumo-desu-ga-nani-ka-episode-"
-	},
-	"Baki Dou": {
-		"episode": 198,
-		"downloaded": 0,
-		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
-	},
-	"Fate Zero": {
-		"episode": 0,
-		"downloaded": 3,
-		"link": "https://anitaku.to/fate-zero-episode-"
-	},
 	"One Piece Manga": {
 		"episode": 924,
 		"downloaded": 0,
@@ -23,6 +8,11 @@
 		"episode": 11,
 		"downloaded": 8,
 		"link": "https://aniwave.to/watch/mashle-2nd-season.52159/ep-"
+	},
+	"Solo Leveling": {
+		"episode": 11,
+		"downloaded": 0,
+		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
 	},
 	"Devon Price: Unmasking Autism": {
 		"episode": 122,
@@ -34,14 +24,24 @@
 		"downloaded": 0,
 		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
 	},
+	"Fate Zero": {
+		"episode": 0,
+		"downloaded": 3,
+		"link": "https://anitaku.to/fate-zero-episode-"
+	},
+	"Baki Dou": {
+		"episode": 198,
+		"downloaded": 0,
+		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
+	},
+	"So I'm a Spider, So What?": {
+		"episode": 8,
+		"downloaded": 11,
+		"link": "https://anitaku.to/kumo-desu-ga-nani-ka-episode-"
+	},
 	"One Piece": {
 		"episode": 901,
 		"downloaded": 1076,
 		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
-	"Solo Leveling": {
-		"episode": 11,
-		"downloaded": 0,
-		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
 	}
 }
