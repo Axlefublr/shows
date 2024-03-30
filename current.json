@@ -1,23 +1,13 @@
 {
-	"Solo Leveling": {
-		"episode": 11,
+	"One Piece Manga": {
+		"episode": 924,
 		"downloaded": 0,
-		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
+		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
 	},
-	"The Eminence in Shadow": {
-		"episode": 9,
-		"downloaded": 20,
-		"link": "https://anitaku.to/kage-no-jitsuryokusha-ni-naritakute-episode-"
-	},
-	"Mashle 2": {
-		"episode": 11,
-		"downloaded": 8,
-		"link": "https://aniwave.to/watch/mashle-2nd-season.52159/ep-"
-	},
-	"Devon Price: Unmasking Autism": {
-		"episode": 122,
-		"downloaded": 0,
-		"link": ""
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
 	},
 	"Solo Leveling Manga": {
 		"episode": 176,
@@ -29,19 +19,29 @@
 		"downloaded": 0,
 		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
 	},
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
+	"Devon Price: Unmasking Autism": {
+		"episode": 122,
+		"downloaded": 0,
+		"link": ""
+	},
+	"The Eminence in Shadow": {
+		"episode": 10,
+		"downloaded": 20,
+		"link": "https://anitaku.to/kage-no-jitsuryokusha-ni-naritakute-episode-"
+	},
+	"Mashle 2": {
+		"episode": 11,
+		"downloaded": 8,
+		"link": "https://aniwave.to/watch/mashle-2nd-season.52159/ep-"
 	},
 	"Fate Zero": {
 		"episode": 0,
 		"downloaded": 3,
 		"link": "https://anitaku.to/fate-zero-episode-"
 	},
-	"One Piece Manga": {
-		"episode": 924,
+	"Solo Leveling": {
+		"episode": 11,
 		"downloaded": 0,
-		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
 	}
 }
