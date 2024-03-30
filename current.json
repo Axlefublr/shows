@@ -1,18 +1,33 @@
 {
-	"Baki Dou": {
-		"episode": 198,
-		"downloaded": 0,
-		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
-	},
 	"Mashle 2": {
 		"episode": 11,
 		"downloaded": 8,
 		"link": "https://aniwave.to/watch/mashle-2nd-season.52159/ep-"
 	},
+	"The Eminence in Shadow": {
+		"episode": 0,
+		"downloaded": 0,
+		"link": "https://anitaku.to/kage-no-jitsuryokusha-ni-naritakute-episode-"
+	},
 	"One Piece Manga": {
 		"episode": 924,
 		"downloaded": 0,
 		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+	},
+	"One Piece": {
+		"episode": 901,
+		"downloaded": 1076,
+		"link": "https://gogoanimehd.io/one-piece-episode-"
+	},
+	"Solo Leveling": {
+		"episode": 11,
+		"downloaded": 0,
+		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
+	},
+	"Solo Leveling Manga": {
+		"episode": 176,
+		"downloaded": 0,
+		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
 	},
 	"Devon Price: Unmasking Autism": {
 		"episode": 122,
@@ -24,19 +39,9 @@
 		"downloaded": 3,
 		"link": "https://anitaku.to/fate-zero-episode-"
 	},
-	"Solo Leveling": {
-		"episode": 11,
+	"Baki Dou": {
+		"episode": 198,
 		"downloaded": 0,
-		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
-	},
-	"One Piece": {
-		"episode": 901,
-		"downloaded": 1076,
-		"link": "https://gogoanimehd.io/one-piece-episode-"
-	},
-	"Solo Leveling Manga": {
-		"episode": 176,
-		"downloaded": 0,
-		"link": "https://sololevelingmanga.org/manga/solo-leveling-chapter-"
+		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
 	}
 }
