@@ -1,28 +1,18 @@
 {
-	"Mashle 2": {
-		"episode": 11,
-		"downloaded": 8,
-		"link": "https://aniwave.to/watch/mashle-2nd-season.52159/ep-"
-	},
-	"The Eminence in Shadow": {
-		"episode": 0,
+	"Baki Dou": {
+		"episode": 198,
 		"downloaded": 0,
-		"link": "https://anitaku.to/kage-no-jitsuryokusha-ni-naritakute-episode-"
-	},
-	"One Piece Manga": {
-		"episode": 924,
-		"downloaded": 0,
-		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
 	},
 	"One Piece": {
 		"episode": 901,
 		"downloaded": 1076,
 		"link": "https://gogoanimehd.io/one-piece-episode-"
 	},
-	"Solo Leveling": {
-		"episode": 11,
-		"downloaded": 0,
-		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
+	"Fate Zero": {
+		"episode": 0,
+		"downloaded": 3,
+		"link": "https://anitaku.to/fate-zero-episode-"
 	},
 	"Solo Leveling Manga": {
 		"episode": 176,
@@ -34,14 +24,24 @@
 		"downloaded": 0,
 		"link": ""
 	},
-	"Fate Zero": {
-		"episode": 0,
-		"downloaded": 3,
-		"link": "https://anitaku.to/fate-zero-episode-"
+	"Mashle 2": {
+		"episode": 11,
+		"downloaded": 8,
+		"link": "https://aniwave.to/watch/mashle-2nd-season.52159/ep-"
 	},
-	"Baki Dou": {
-		"episode": 198,
+	"The Eminence in Shadow": {
+		"episode": 4,
+		"downloaded": 17,
+		"link": "https://anitaku.to/kage-no-jitsuryokusha-ni-naritakute-episode-"
+	},
+	"One Piece Manga": {
+		"episode": 924,
 		"downloaded": 0,
-		"link": "https://mangakakalot.com/chapter/baki_dou/chapter_"
+		"link": "https://ww9.readonepiece.com/chapter/one-piece-digital-colored-comics-chapter-"
+	},
+	"Solo Leveling": {
+		"episode": 11,
+		"downloaded": 0,
+		"link": "https://aniwave.to/watch/solo-leveling.3rpv2/ep-"
 	}
 }
