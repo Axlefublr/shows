@@ -254,3 +254,4 @@ Better Call Saul
 24.12.26 - (drop: 2) Drifters
 24.12.27 - (drop: 119) Programming Ruby 3.2
 25.01.02 - (drop: 9) The Reincarnation of the Strongest Exorcist in Another World
+25.01.02 - (drop: 5) Kuma Kuma Kuma Bear
