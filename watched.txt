@@ -281,3 +281,4 @@ Better Call Saul
 25.04.05 - (drop: 0) Overgeared
 25.04.08 - (drop: 2) Tsukimichi: Moonlit Fantasy
 25.04.09 - (drop: 2) Ubel Blatt
+25.04.12 - (drop: 0) Bogus Skill <<Fruitmaster>>: About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)
