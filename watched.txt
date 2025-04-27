@@ -284,3 +284,4 @@ Better Call Saul
 25.04.12 - (drop: 0) Bogus Skill <<Fruitmaster>>: About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)
 25.04.13 - (drop: 4) Headhunted to Another World: From Salaryman to Big Four!
 25.04.14 - From Bureaucrat to Villainess: Dad's Been Reincarnated!
+25.04.27 - (drop: 10) The God of High School
