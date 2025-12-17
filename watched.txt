@@ -329,3 +329,4 @@ Better Call Saul
 25.12.08 - (drop: 6) Death March to the Parallel World Rhapsody
 25.12.08 - (drop: 1) Promise of Wizard
 25.12.17 - (drop: 9) Goblin Slayer
+25.12.17 - (drop: 7) Uglymug, Epicfighter
