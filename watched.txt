@@ -355,3 +355,4 @@ Better Call Saul
 26.06.11 - (drop: 2) Mechanical Marie
 26.06.12 - (drop: 1) Darwin's Game
 26.06.20 - (drop: 4) The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!
+26.06.23 - The Regression of Great Sage Riddle
