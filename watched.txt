@@ -359,3 +359,4 @@ Better Call Saul
 26.06.24 - (drop: 14) That Time I Reincarnated As A Slime 3
 26.06.25 - Monster Eater
 26.06.27 - (drop: 86) Level Up with Skills
+26.06.30 - (drop: 6) Liar Game
